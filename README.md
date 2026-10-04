@@ -34,7 +34,7 @@
 </h2>
 
 <p align="center">
-  <img src="./skills-strip.png"
-       alt="Software Development, AI & Computer Vision, Embedded Systems, Robotics, Control Systems"
-       width="100%">
+<img src="./skills-strip-animated.gif"
+     alt="Software Development, AI & Computer Vision, Embedded Systems, Robotics, Control Systems"
+     width="100%">
 </p>
