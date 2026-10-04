@@ -5,7 +5,7 @@
 </p>
 
 <h2>
-  <img src="./hand.svg" width="28" height="28" alt="hand" align="center">
+<img src="./hand_filled.svg" width="28" height="28" alt="hand" align="center">
   &nbsp; Hi, I'm Parmida!
 </h2>
 
