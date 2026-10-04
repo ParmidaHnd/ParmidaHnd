@@ -11,8 +11,7 @@
 
 <p>
   I hold a B.Sc. in Electrical Engineering — Control from Iran University of Science and Technology (IUST), with a background in robotics, embedded systems, and software development.<br>
-  My main interests now are AI and computer vision, especially developing practical applications in these areas.<br>
-  I enjoy working with Python and C++ and using AI, computer vision, and software development to solve real-world engineering problems.
+  My main interests now are AI and computer vision, especially developing practical applications in these areas. I enjoy working with Python and C++ and using AI, computer vision, and software development to solve real-world engineering problems.
 </p>
 
 <h2>
